@@ -1,0 +1,5 @@
+a=float(input("type numba  "))
+b=int(a)
+c=int((a-b)*100)
+d=float(c+(b/100))
+print(d)
