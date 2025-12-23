@@ -1,6 +1,6 @@
-a=int(input("enter num1 "))
-b=input("enter operation ")
-c=int(input("enter num2 "))
+a, b, c = input("Enter num, operation, num: ").split()
+a = int(a)
+c = int(c)
 if b=="+":
     print(a+c)
 elif b=="-":
