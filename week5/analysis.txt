@@ -1,0 +1,9 @@
+Lines: 2
+Words: 6
+Word frequency:
+aitu: 1
+python: 1
+turysbek: 1
+nazym: 1
+best: 1
+teacher: 1
